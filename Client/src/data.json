@@ -1,0 +1,32 @@
+{
+  "student": [
+    {
+      "id": "6be3",
+      "name": "PraveenChoudhary",
+      "email": "pc852180@gmail.com",
+      "city": "Seoni",
+      "number": "9098354728"
+    },
+    {
+      "id": "a296",
+      "name": "PraveenChoudhary",
+      "email": "pc852180@gmail.com",
+      "city": "bhopal",
+      "number": "9098354728"
+    },
+    {
+      "id": "000d",
+      "name": "PraveenChoudhary",
+      "email": "pc852180@gmail.com",
+      "city": "bhopal",
+      "number": "9098354728"
+    },
+    {
+      "id": "cbc0",
+      "name": "PraveenChoudhary",
+      "email": "pc852180@gmail.com",
+      "city": "bhopal",
+      "number": "9098354728"
+    }
+  ]
+}
