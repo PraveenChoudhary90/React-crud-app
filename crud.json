@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "e583",
+      "name": "praveen",
+      "age": "23",
+      "address": "seoni gopalganj roadn121 karui"
+    },
+    {
+      "id": "c808",
+      "name": "PraveenChoudhary",
+      "age": "22",
+      "address": "balaghat madhya predesh"
+    },
+    {
+      "name": "rohit",
+      "age": "28",
+      "address": "indore",
+      "id": "715e"
+    }
+  ]
+}
