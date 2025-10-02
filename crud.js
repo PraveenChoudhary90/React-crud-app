@@ -13,7 +13,7 @@ function insertdata()
         body:JSON.stringify(add)
 
     })
-    .tden(ress=>window.alert("addon data is sucessfully insert"));
+    .then(ress=>window.alert("addon data is sucessfully insert"));
     console.log(add);
 
 }
