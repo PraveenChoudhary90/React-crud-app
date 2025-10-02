@@ -7,6 +7,18 @@
     <title>Document</title>
 </head>
 <body>
+         <table border=" ">
+        <thead>
+            <th>ID</th>
+            <th>NAME</th>
+            <th>EMAIL</th>
+            <th>NUMBER</th>
+            <th>DELETE</th>
+            <th>UPDATE</th>
+        </thead>
+        <tbody id="showdata">
+        </tbody>
+    </table>
     <form action="">
         <label for="">Name</label>
         <input type="text"  placeholder="enter the name here" id="name">
@@ -25,6 +37,7 @@
         <br><br><br>
         <button onclick="Insertdata();">Submit</button>
     </form>
+         <div id="edittable"></div>
     <script src="index.js"></script>
 </body>
 </html>
