@@ -69,13 +69,12 @@ if (!name || !email || !number || !pass || !cpass) {
 
 
 
-    const add = {
-        name:"",
-        email:"",
-        number:"",
-        pass:"",
-        cpass:""
-    }
+   const add = {
+        name,
+        email,
+        number,
+        pass: cpass // use one field; no need to save confirm password
+    };
 
      const response = await fetch("http://localhost:3000/students", {
             method: "POST",

@@ -1,20 +1,11 @@
 {
   "students": [
     {
-      "id": "8c6d",
-      "name": "",
-      "email": "",
-      "number": "",
-      "pass": "",
-      "cpass": ""
-    },
-    {
-      "id": "5bca",
-      "name": "",
-      "email": "",
-      "number": "",
-      "pass": "",
-      "cpass": ""
+      "id": "c31b",
+      "name": "PraveenChoudhary",
+      "email": "pc852180@gmail.com",
+      "number": "9098354728",
+      "pass": "Aa@12"
     }
   ]
 }
